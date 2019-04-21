@@ -211,7 +211,6 @@ li a {
   left: 50%;
   top: 135%;
   width: 10%;
-
 }
 
 #vhs {
@@ -255,4 +254,41 @@ li a {
   left: 58%;
   top: 95%;
   width: 30%;
+}
+
+@media only screen and (max-width:700px){
+  #alifeglobe {
+    position: absolute;
+    left: 60%;
+    top: 40%;
+    width: 50%;
+  }
+
+  #vhs {
+    position: absolute;
+    left: 30%;
+    top: 49%;
+    width: 30%;
+  }
+
+  #teenageriot {
+    position: absolute;
+    left: 20%;
+    top: 37%;
+    width: 35%
+  }
+
+  #mcnike {
+    position: absolute;
+    left: 60%;
+    top: 50%;
+    width: 30%;
+  }
+
+  #passportedited {
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    width: 10%;
+  }
 }
