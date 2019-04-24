@@ -252,8 +252,15 @@ li a {
 #mcnike {
   position: absolute;
   left: 58%;
-  top: 95%;
-  width: 30%;
+  top: 80%;
+  width: 25%;
+}
+
+#twitter {
+  position: absolute;
+  left: 35%;
+  top: 50%;
+  width: 25%;
 }
 
 @media only screen and (max-width:700px){
