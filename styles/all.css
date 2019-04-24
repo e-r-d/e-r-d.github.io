@@ -258,9 +258,9 @@ li a {
 
 #twitter {
   position: absolute;
-  left: 35%;
-  top: 50%;
-  width: 25%;
+  left: 15%;
+  top: 100%;
+  width: 10%;
 }
 
 @media only screen and (max-width:700px){
