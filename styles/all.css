@@ -292,6 +292,13 @@ li a {
     width: 30%;
   }
 
+  #iphone {
+    position: absolute;
+    left: 65%;
+    top: 70%;
+    width: 30%;
+  }
+
   #passportedited {
     position: absolute;
     left: 50%;
