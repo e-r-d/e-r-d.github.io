@@ -181,7 +181,7 @@ li a {
 }
 
 #favicon {
-  position: absolute;
+  position: fixed;
   left: 7.9%;
   top: 82%;
   width: 6.4%;
@@ -360,6 +360,73 @@ li a {
   left: 7.5%;
   top: 62.3%;
   width: 7%;
+}
+
+#wall {
+  position: absolute;
+  left: 3.8%;
+  top: 103.3%;
+  width: 32%;
+}
+
+#alifeglobe {
+  position: absolute;
+  left: 37%;
+  top: 139.6%;
+  width: 19.4%;
+}
+
+#alifeglobe1 {
+  position: absolute;
+  left: 55.7%;
+  top: 113.9%;
+  width: 17%;
+}
+
+#tobaccointernet {
+  position: absolute;
+  left: 27.4%;
+  top: 103.3%;
+  width: 27%;
+}
+
+#alifeohiotee {
+  position: absolute;
+  left: 56.5%;
+  top: 162.2%;
+  width: 17.2%;
+}
+
+#bmw {
+  position: absolute;
+  left: 74.0%;
+  top: 130.6%;
+  width: 21.6%;
+}
+
+#bulkbag {
+  position: absolute;
+  left: 71.6%;
+  top: 103.7%;
+  width: 24%;
+}
+
+#page {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  margin-top: 5%;
+  width: 75%;
+
+}
+
+#page2 {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  margin-top: 2%;
+  width: 40%;
+
 }
 
 @media only screen and (max-width:700px){
